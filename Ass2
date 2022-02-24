@@ -1,0 +1,8 @@
+l=[]
+l.append(4)
+l.append(5)
+l.append(6)
+print("when i used append method")
+print(l)
+l.reverse()
+print('reversed list',l)
